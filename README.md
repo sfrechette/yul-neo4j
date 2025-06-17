@@ -6,4 +6,4 @@ YUL Graph Data Model
 
 Related blog post **Neo4j: Montreal-Pierre Elliott Trudeau International Airport (YUL)**
 
-http://stephanefrechette.com/neo4j-montreal-pierre-elliott-trudeau-international-airport-yul/
+[https://stephanefrechette.dev/posts/neo4j-montreal-pierre-elliott-trudeau-international-airport-yul/](https://stephanefrechette.dev/posts/neo4j-montreal-pierre-elliott-trudeau-international-airport-yul/)
